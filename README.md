@@ -11,8 +11,8 @@ flutter example for Firebase Clouding Messaging.
 1. add dependencies in `pubspec.yaml`
 
 ```yaml
-  firebase_core: ^1.6.0
-  firebase_messaging: ^10.0.0
+  firebase_core: ^1.10.0
+  firebase_messaging: ^11.1.0
   firebase_messaging_platform_interface: ^3.1.6
   flutter_local_notifications: ^8.2.0
 ```
